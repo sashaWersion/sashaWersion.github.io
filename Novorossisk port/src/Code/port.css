@@ -1,0 +1,66 @@
+.im_port {
+height : 100% ;
+width: 100% ;
+z-index: 1 ;
+}
+.bd {
+height: 100% ;
+width: 100% ;
+z-index: 0 ;
+}
+.marg {
+margin-top: 0px ;
+margin-right: 0px ;
+margin-bottom: 0px ;
+margin-left: 0px ;
+}
+#layer2 {
+    position: relative ;
+    left: 25px ;
+    width:100% ;
+    height:100% ;
+    z-index:1;
+    align-content: center;
+    background-color:#F5F5F5 ;
+    width: 65%;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    top: 100px ;
+    right: 100px ;
+    font-family: Constantia;
+    text-align: left;
+    
+}
+#layer1 {
+    position: fixed ;
+    width:100% ;
+    height:100% ;
+}
+#layer2_1 {
+    position: relative ;
+    vertical-align: super;
+    z-index:1;
+    top: 107px ;
+    left: 280px ;
+
+}
+#layer2_2 {
+    position: fixed ;
+    z-index: 1 ;
+    background-color: #F0FFFD ;
+    width: 18%;
+    height:50%;
+    vertical-align: super ;
+    top: 390px ;
+    bottom: 800px;
+    text-align:start ;
+}
+.port1_1 {
+    width: 400px ;
+}
+
+.port1_2 {
+    height: 201px ;
+}
